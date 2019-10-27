@@ -13,3 +13,7 @@ SELECT BODY and type in the below JSON code:
     "time": "50000"
   }
 }
+
+CLICK "SEND' and VOILA you will get to see your first custom notification.
+
+Happy Coding xx
